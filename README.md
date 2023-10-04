@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @roshan-mammen-abraham
-- 👀 I’m a PhD student in physics at OSU, Stillwater
+- 👀 I was PhD student in physics at OSU, Stillwater.
+- 👀 Now a PostDoc at UCIrvine.
 - 📫 How to reach me : roshan.abraham91@gmail.com
 
 <!---
