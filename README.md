@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @roshan-mammen-abraham
-- 👀 I was PhD student in physics at OSU, Stillwater.
-- 👀 Now a PostDoc at UCIrvine.
+- 👀 PhD in physics @ OSU, Stillwater.
+- 👀 PostDoc @ UCIrvine.
+- 👀 Research Scientist @ MIFTIFusion.
 - 📫 How to reach me : roshan.abraham91@gmail.com
 
 <!---
